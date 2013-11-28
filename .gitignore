@@ -1,0 +1,9 @@
+ext/*
+!ext/impulse
+ext/impulse/*
+!ext/impulse/*.rb
+!ext/impulse/*.c
+!ext/impulse/*.h
+pkg/
+tmp/
+*.gem
